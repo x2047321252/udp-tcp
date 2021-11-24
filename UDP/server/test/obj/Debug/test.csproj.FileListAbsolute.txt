@@ -1,0 +1,7 @@
+D:\vs studio project\test\test\bin\Debug\test.exe.config
+D:\vs studio project\test\test\bin\Debug\test.exe
+D:\vs studio project\test\test\bin\Debug\test.pdb
+D:\vs studio project\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\vs studio project\test\test\obj\Debug\test.exe
+D:\vs studio project\test\test\obj\Debug\test.pdb
+D:\vs studio project\test\test\obj\Debug\test.csproj.AssemblyReference.cache
